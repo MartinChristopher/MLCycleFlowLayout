@@ -1,0 +1,16 @@
+PODS:
+  - MLCycleFlowLayout (0.0.1)
+
+DEPENDENCIES:
+  - MLCycleFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  MLCycleFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLCycleFlowLayout: db54809c20f00fa670512d1a200bf09a295af338
+
+PODFILE CHECKSUM: 1b9f00331f9369e11d7ad3c768999cd8c935511c
+
+COCOAPODS: 1.11.3

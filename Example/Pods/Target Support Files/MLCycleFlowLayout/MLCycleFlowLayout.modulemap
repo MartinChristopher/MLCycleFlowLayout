@@ -1,0 +1,6 @@
+framework module MLCycleFlowLayout {
+  umbrella header "MLCycleFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
